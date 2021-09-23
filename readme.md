@@ -1,4 +1,4 @@
-A docker image for Circle CI 2.0 that includes:
+A docker image for Circle CI that includes:
 
 - Node 10.15.3
 - Docker, Docker Compose
